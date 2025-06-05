@@ -1,0 +1,106 @@
+Testing ping...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'PING'
+[TESTER] received string 'PING'
+[TESTER] received number 75664
+[TESTER] received string 'PONG'
+[TESTER] sending string 'EXIT'
+Test score: 10 / 10
+Testing shm1...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing shm_write...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing map_inexistent...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'MAP_FILE'
+[TESTER] sending string 'test_root/EWVw1pRdjCzj.rmg'
+[TESTER] sending string 'EXIT'
+Test score: 1 / 5
+Testing map1...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'MAP_FILE'
+[TESTER] sending string 'test_root/3G0AaoAB8N.fw5'
+[TESTER] sending string 'EXIT'
+Test score: 1 / 5
+Testing read_offset...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing read_section...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing read_logical...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+
+Total score: 17 / 70
+Assignment grade: 24.29 / 100
+Testing ping...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'PING'
+[TESTER] received string 'PING'
+[TESTER] received number 75664
+[TESTER] received string 'PONG'
+[TESTER] sending string 'EXIT'
+Test score: 10 / 10
+Testing shm1...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing shm_write...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing map_inexistent...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'MAP_FILE'
+[TESTER] sending string 'test_root/EWVw1pRdjCzj.rmg'
+[TESTER] sending string 'EXIT'
+Test score: 1 / 5
+Testing map1...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'MAP_FILE'
+[TESTER] sending string 'test_root/3G0AaoAB8N.fw5'
+[TESTER] sending string 'EXIT'
+Test score: 1 / 5
+Testing read_offset...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing read_section...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+Testing read_logical...
+[TESTER] received string 'BEGIN'
+[TESTER] sending string 'CREATE_SHM'
+[TESTER] sending number 3938795
+[TESTER] sending string 'EXIT'
+Test score: 1 / 10
+
+Total score: 17 / 70
+Assignment grade: 24.29 / 100
